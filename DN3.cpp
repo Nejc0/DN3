@@ -66,4 +66,5 @@ int main()
         << integral << std::endl;
 
     return 0;
+
 }
